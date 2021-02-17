@@ -9,7 +9,7 @@ public class Main {
 		this file - you should see the below printout in the Console window.  After
 		that, you may remove it.
 		*/
-		System.out.println("Welcome to CS 106!  Enjoy Lab 0!");
+		System.out.println("Welcome to CS 106!  Enjoy Lab 0, Mai Anh!");
 	}
 
 	// TODO: You should add the functions you create for the lab here and below.
